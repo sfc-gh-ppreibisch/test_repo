@@ -7,4 +7,4 @@ touch $file
 git add $file
 
 git commit -am "Add file"
-git push
+git push --force
